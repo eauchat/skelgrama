@@ -24,7 +24,7 @@ For more info on how to setup a site using grama, check the [grama theme documen
 
 Skelgrama is of any use only thanks to [the grav CMS](https://getgrav.org) which makes 99% of the work of making your website run, in fact.
 Some stuff are made much easier by the following amazing javascript libraries: [jquery](https://jquery.com/) and [underscorejs](https://underscorejs.org/).
-The intro and typography page are adapted from the skeleton installed by default by grav.
+The intro and typography pages are adapted from the skeleton installed by default by grav.
 The skeleton logo is based on the grav logo.
 
 
