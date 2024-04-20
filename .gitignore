@@ -1,0 +1,7 @@
+/config/plugins/login-ldap
+/config/plugins/login-ldap.yaml
+/config/plugins/admin.yaml
+/config/media.yaml
+/config/scheduler.yaml
+/config/security.yaml
+/config/versions.yaml

@@ -1,0 +1,67 @@
+absolute_urls: false
+
+languages:
+  supported:
+    - en
+    - fr
+    - it
+  default_lang: en
+  include_default_lang: true
+  include_default_lang_file_extension: true
+  translations: true
+  translations_fallback: true
+  session_store_active: false
+  http_accept_language: true
+  override_locale: false
+  content_fallback: {  }
+  pages_fallback_only: false
+  debug: false
+
+home:
+  alias: "/home"
+
+pages:
+  theme: grama
+  dateformat:
+    default: Y-m-d
+    short: Y-m-d
+    long: Y-m-d_H:i
+  markdown:
+    extra: false
+    auto_line_breaks: true
+  process:
+    markdown: true
+    twig: false
+
+cache:
+  enabled: false
+  check:
+    method: file
+  driver: auto
+  prefix: 'g'
+
+twig:
+  cache: true
+  debug: true
+  auto_reload: true
+  autoescape: true
+
+assets:
+  css_pipeline: false
+  css_minify: true
+  css_rewrite: true
+  js_pipeline: false
+  js_module_pipeline: false
+  js_minify: true
+
+errors:
+  display: true
+  log: true
+
+debugger:
+  enabled: false
+  twig: true
+  shutdown:
+    close_connection: false
+gpm:
+  verify_peer: true

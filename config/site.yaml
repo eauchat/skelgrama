@@ -1,0 +1,7 @@
+title: Skelgrama
+author:
+  name: skelgrama
+  email: 'skelgrama@example.com'
+metadata:
+    description: 'Skelgrama is a simple skeleton website that uses the grama theme'
+taxonomies: [tag, author, location]

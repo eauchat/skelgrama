@@ -1,0 +1,17 @@
+git:
+    grama:
+        url: https://github.com/eauchat/grama
+        path: user/themes/grama
+        branch: master
+    customcss:
+        url: https://github.com/getgrav/grav-plugin-custom-css
+        path: user/plugins/customcss
+        branch: master
+    featherlight:
+        url: https://github.com/getgrav/grav-plugin-featherlight
+        path: user/plugins/featherlight
+        branch: master
+    langswitcher:
+        url: https://github.com/getgrav/grav-plugin-langswitcher
+        path: user/plugins/langswitcher
+        branch: master
