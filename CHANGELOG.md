@@ -13,8 +13,14 @@
      * Another bugfix -->
 
 
-# v0.0.1
+# v0.1.0
 ## 2024-04-21
+
+1. [](#improved)
+    * Improved various documentation aspects
+
+# v0.0.1
+## 2024-04-20
 
 1. [](#new)
     * Created skelgrama skeleton
