@@ -1,2 +1,2 @@
 enabled: true
-css_inline: ".grama-template--home .mtp-nav, .grama-template--home .mtp-nav a {\n    color: white;\n}\n.mat-home .mat-home--subtitle {\n    color: white;\n    text-shadow: -1px 1px #08F !important;\n}\n.mat-home .mat-home--title_image {\n    width: 180px !important;\n}"
+css_inline: ".grama-template--home .mtp-nav, .grama-template--home .mtp-nav a {\n    color: white;\n}\n.mat-home .mat-home--subtitle {\n    color: white;\n    text-shadow: -1px 1px #08F !important;\n}\n.mat-home .mat-home--subtitle a {\n    color: white;\n    text-decoration: underline;\n}\n.mat-home .mat-home--subtitle a:hover {\n    color: #FFC0FE;\n}\n.mat-home .mat-home--title_image {\n    width: 180px !important;\n}"
