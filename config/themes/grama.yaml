@@ -1,1 +1,21 @@
+
+# to modify the position of the menu bar, you can set this to "bottom"
+# navbar-position: top
+
+# the "sides" option tells grama to display images randomly on the sides of your pages
+# add the images you want to display in the "images/sides" directory
+# if you want to have only one side filled with images, you may set the following option to "left" or "right"
+# if you don't want any side images, you can set this to "none" and remove the "images/sides" folder
+# sides: both
+
+# this tells grama where there is a page with the "tag" template
+# this page is opened when the visitor clicks on a tag, it opens a page listing posts having the given tag
 tag_page_slug: /tags/tag/
+
+# this tells grama that there is an "/authors/" folder containing subpages for each of this site authors
+# authors_page_slug: /authors/
+
+# set the following option to true if there's only one author on this site, or you don't want to display who are the authors of blog posts
+# hide_author_headlines: false
+
+# for a full list of available options, check the grama blueprints or documentation: https://framagit.org/squeak/grama/-/blob/master/README.md
