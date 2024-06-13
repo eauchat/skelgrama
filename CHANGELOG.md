@@ -13,6 +13,12 @@
      * Another bugfix -->
 
 
+# v0.1.1
+## 2024-06-13
+
+1. [](#improved)
+    * Improved system.yaml configuration, following recommendations in grav documentation
+
 # v0.1.0
 ## 2024-04-21
 
@@ -24,4 +30,4 @@
 
 1. [](#new)
     * Created skelgrama skeleton
-    * ChangeLog started...
+    * Changelog started...
