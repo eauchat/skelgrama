@@ -18,4 +18,24 @@ tag_page_slug: /tags/tag/
 # set the following option to true if there's only one author on this site, or you don't want to display who are the authors of blog posts
 # hide_author_headlines: false
 
+# use stylesheet option to add some custom css to all pages
+stylesheet: |
+  .grama-template--home .mtp-nav, .grama-template--home .mtp-nav a {
+      color: white;
+  }
+  .mat-home .mat-home--subtitle {
+      color: white;
+      text-shadow: -1px 1px #08F !important;
+  }
+  .mat-home .mat-home--subtitle a {
+      color: white;
+      text-decoration: underline;
+  }
+  .mat-home .mat-home--subtitle a:hover {
+      color: #FFC0FE;
+  }
+  .mat-home .mat-home--title_image {
+      width: 180px !important;
+  }
+
 # for a full list of available options, check the grama blueprints or documentation: https://framagit.org/squeak/grama/-/blob/master/README.md
