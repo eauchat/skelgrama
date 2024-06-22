@@ -13,21 +13,27 @@
      * Another bugfix -->
 
 
+# v0.1.2
+## 2024-06-22
+
+1. [](#improved)
+    * Use stylesheet grama theme variable instead of custom-css plugin.
+
 # v0.1.1
 ## 2024-06-13
 
 1. [](#improved)
-    * Improved system.yaml configuration, following recommendations in grav documentation
+    * Improved system.yaml configuration, following recommendations in grav documentation.
 
 # v0.1.0
 ## 2024-04-21
 
 1. [](#improved)
-    * Improved various documentation aspects
+    * Improved various documentation aspects.
 
 # v0.0.1
 ## 2024-04-20
 
 1. [](#new)
-    * Created skelgrama skeleton
+    * Created skelgrama skeleton.
     * Changelog started...
