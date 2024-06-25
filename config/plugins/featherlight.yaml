@@ -1,1 +1,2 @@
 gallery: true
+initTemplate: theme://plugins/featherlight.init.js
