@@ -63,16 +63,14 @@ Text<sub>Subscripted</sub> `<sub>`
 
 ### Blockquote
 
-> The advance of technology is based on making it fit in so that you don't really even notice it,
-> so it's part of everyday life.
+> Appropriate words, found at the right time, are action.
 >
-> <cite>- Bill Gates</cite>
+> <cite>- Hannah Arendt</cite>
 
 ```markdown
-> The advance of technology is based on making it fit in so that you don't really even notice it,
-> so it's part of everyday life.
+> Appropriate words, found at the right time, are action.
 >
-> <cite>- Bill Gates</cite>
+> <cite>- Hannah Arendt</cite>
 ```
 
 ### Unordered List
