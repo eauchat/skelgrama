@@ -13,6 +13,12 @@
      * Another bugfix -->
 
 
+# v0.1.3
+## 2024-06-25
+
+1. [](#new)
+    * Added demo of gallery images titles.
+
 # v0.1.2
 ## 2024-06-22
 
