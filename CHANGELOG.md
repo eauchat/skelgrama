@@ -13,6 +13,12 @@
      * Another bugfix -->
 
 
+# v0.1.4
+## 2024-06-25
+
+1. [](#new)
+    * Removed Bill Gates quote in typography page!
+
 # v0.1.3
 ## 2024-06-25
 
